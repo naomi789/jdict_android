@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="wordCardGrey">#F1F3F4</color>
+    <color name="correctButton">#BBF1C4</color>
+    <color name="correctText">#00530B</color>
+    <color name="incorrectButton">#F38D8D</color>
+    <color name="incorrectText">#922A2A</color>
+    <color name="darkGrey">#797979</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorPrimary">#BE0026</color>
+    <color name="colorAccent">#FFFFFF</color>
 </resources>
